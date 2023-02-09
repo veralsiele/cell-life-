@@ -1,2 +1,2 @@
-# cell-life-
+# cell-life
 Cell life imitation game
